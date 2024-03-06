@@ -1,1 +1,2 @@
-ejecutar comando: "node index.js" para iniciar
+
+Ejecutar comando: "node index.js" para iniciar
